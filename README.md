@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Ezbooking](https://github.com/SilasUIT/Group2-WebFinalProject)
 
-- 🤝 I’m looking for help with [DudeBooking](https://github.com/LeeinUITk17/VincentFlow--TodoListApp)
+- 🤝 I’m looking for help with [PirateSocial](https://github.com/TDevUIT/PirateSocial)
 
 - 💬 Ask me about **Nodejs, MVC , MongoDB..etc.**
 
