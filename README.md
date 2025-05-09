@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [VibloEarth817](https://github.com/LeeinUITk17/VibloEarth817)
-
 - 🌱 I’m currently learning **Nestjs, NustJs**
-
-- 👯 I’m looking to collaborate on [Ezbooking](https://github.com/SilasUIT/Group2-WebFinalProject)
-
-- 🤝 I’m looking for help with [PirateSocial](https://github.com/TDevUIT/PirateSocial)
 
 - 💬 Ask me about **Nodejs, MVC , MongoDB..etc.**
 
